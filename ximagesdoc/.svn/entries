@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2917"
+   name=""
+   committed-date="2009-10-22T05:37:37.967307Z"
+   url="https://products.infolink.co.id/impldev/Documents/Clients/SPRI/qc/Application/DeploymentLIVE/InstalasiKanim/Binary/Ximages/Backup%20Other%20Version%20(1.11)"
+   last-author="erick"
+   kind="dir"
+   uuid="59030328-7f1a-0410-af37-b446341e4c67"
+   revision="2968"/>
+<entry
+   committed-rev="2917"
+   name="libximages.so.1.0"
+   text-time="2009-10-23T04:08:59.937500Z"
+   committed-date="2009-10-22T05:37:37.967307Z"
+   checksum="600b64a6851c24d606159fee7b5ce1fa"
+   last-author="erick"
+   kind="file"
+   prop-time="2009-10-23T04:08:57.328125Z"/>
+<entry
+   committed-rev="2917"
+   name="libgcc_s.so.1"
+   text-time="2009-10-23T04:09:00.000000Z"
+   committed-date="2009-10-22T05:37:37.967307Z"
+   checksum="845fbd6f38697160f96f3d4747db800f"
+   last-author="erick"
+   kind="file"
+   prop-time="2009-10-23T04:08:57.375000Z"/>
+<entry
+   committed-rev="2917"
+   name="ximages.jar"
+   text-time="2009-10-23T04:09:00.093750Z"
+   committed-date="2009-10-22T05:37:37.967307Z"
+   checksum="8104a125ba01d0970837e877ce69fb7a"
+   last-author="erick"
+   kind="file"
+   prop-time="2009-10-23T04:08:57.703125Z"/>
+<entry
+   committed-rev="2917"
+   name="libfreeimage-3.12.0.so"
+   text-time="2009-10-23T04:09:00.515625Z"
+   committed-date="2009-10-22T05:37:37.967307Z"
+   checksum="de16b8a9ae20ffa02b4edab93d7aef69"
+   last-author="erick"
+   kind="file"
+   prop-time="2009-10-23T04:08:59.359375Z"/>
+<entry
+   committed-rev="2917"
+   name="libstdc++.so.6.0.10"
+   text-time="2009-10-23T04:09:00.656250Z"
+   committed-date="2009-10-22T05:37:37.967307Z"
+   checksum="bceb6cedf06b826be7c22689ad0a9073"
+   last-author="erick"
+   kind="file"
+   prop-time="2009-10-23T04:08:59.843750Z"/>
+</wc-entries>
